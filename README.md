@@ -56,6 +56,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tbs96&theme=tokyonight" alt="tbs96" /></p>
 
-# My GitHub Contri Eater
+# My GitHub Contri Eater:
 
 ![snake gif](https://github.com/TBS96/TBS96/blob/output/github-contribution-grid-snake-dark.svg)
