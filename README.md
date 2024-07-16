@@ -35,8 +35,8 @@
 ## 🏆 *GitHub Trophies*
 ![](https://github-profile-trophy.vercel.app/?username=tbs96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🔝 *Top Contributed Repo*
-![](https://github-contributor-stats.vercel.app/api?username=tbs96&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<!-- ## 🔝 *Top Contributed Repo*
+![](https://github-contributor-stats.vercel.app/api?username=tbs96&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
 
 ## 🐍 *My GitHub Contri Eater:*
 
