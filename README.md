@@ -29,7 +29,7 @@
 
 # 📊 *GitHub Stats:*
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tbs96&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=tbs96&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=tbs96&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tbs96&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 *GitHub Trophies*
