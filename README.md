@@ -9,12 +9,15 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/theblacksheep96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/9.theblacksheep.6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prantikghosh96/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/9theblacksheep6) 
 
 ## *Recently added DOM Mini-Projects:*
-
-- 👨‍💻 Weather App [`https://tbs96.github.io/weather-app/`](https://tbs96.github.io/weather-app/)
+- 👨‍💻 Random RGB Color Generator [`https://tbs96.github.io/random-rgb-color-generator/`](https://tbs96.github.io/random-rgb-color-generator/)
 
 - 👨‍💻 Image to Text Converter App [`https://tbs96.github.io/img-to-text-converter-app/`](https://tbs96.github.io/img-to-text-converter-app/)
 
+- 👨‍💻 Mindful Breathing Timer [`https://tbs96.github.io/mindful-breathing-timer/`](https://tbs96.github.io/mindful-breathing-timer/)
+
 - 👨‍💻 Dynamic To-Do List [`https://tbs96.github.io/dynamic-to-do-list/`](https://tbs96.github.io/dynamic-to-do-list/)
+
+- 👨‍💻 Weather App [`https://tbs96.github.io/weather-app/`](https://tbs96.github.io/weather-app/)
 
 - 👨‍💻 Random Password Generator [`https://tbs96.github.io/random-password-generator/`](https://tbs96.github.io/random-password-generator/)
 
