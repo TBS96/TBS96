@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=tbs96&icon=10&color=13)](https://visitcount.itsvg.in)
 
 # 💫 *About Me:*
-🌱 I’m currently learning **React**, **Node.js** & **Linux Environment**<br>👨‍💻 All of my projects are available at *https://github.com/tbs96?tab=repositories*<br>⚡ Fun fact, I think I ain't funny 😂😒
+🌱 I’m currently learning **React** & **React Native** <br>👨‍💻 All of my projects are available at *https://github.com/tbs96?tab=repositories*<br>⚡ Fun fact, I think I ain't funny 😂😒
 
 ## 🌐 *Socials:*
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/theblacksheep96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/9.theblacksheep.6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prantikghosh96/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/9theblacksheep6) 
