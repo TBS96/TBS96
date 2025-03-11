@@ -35,7 +35,7 @@
 
 - 👨‍💻 Random Password Generator and Strength Checker [`https://tbs96.github.io/random-password-generator-strength-checker/`](https://tbs96.github.io/random-password-generator-strength-checker/)
 
-- 👨‍💻 Typewriter Effect [`https://tbs96.github.io/typing-effect/`](https://tbs96.github.io/typing-effect/)
+- 👨‍💻 Typewriter Effect [`https://tbs96.github.io/typewriter-effect/`](https://tbs96.github.io/typewriter-effect/)
 
 # 💻 *Tech Stack:*
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
