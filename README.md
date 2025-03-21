@@ -2,6 +2,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=tbs96&icon=10&color=13)](https://visitcount.itsvg.in)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tbs96&label=Profile%20Views&color=3510da&style=plastic" alt="tbs96" /> </p>
+
 # 💫 *About Me:*
 🌱 I’m currently learning **TypeScript**<br>👨‍💻 All of my projects are available at *https://github.com/tbs96?tab=repositories*<br>⚡ Fun fact, I think I ain't funny 😂😒
 
