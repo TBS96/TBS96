@@ -74,5 +74,7 @@
 ![snake gif](https://github.com/TBS96/TBS96/blob/output/github-contribution-grid-snake-dark.svg)
 
 
+## 📊 *Stats*
+![Alt](https://repobeats.axiom.co/api/embed/58850287904965222180173d1526891d1d18b824.svg "Repobeats analytics image")
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
