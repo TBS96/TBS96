@@ -61,15 +61,11 @@
 ![GH Stats](https://github-readme-stats.vercel.app/api?username=TBS96&show_icons=true&include_all_commits=true&count_private=true&theme=merko&rank_icon=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBS96&theme=merko&layout=pie&include_all_commits=true&count_private=true&)](https://github.com/tbs96?tab=repositories)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TBS96&theme=merko)
-## 🏆 *GitHub Trophies*
-![](https://github-profile-trophy.vercel.app/?username=tbs96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Pac-Man eating my contributions](https://github.com/TBS96/TBS96/blob/output/github-contribution-grid-pacman.svg)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tbs96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- ## 🔝 *Top Contributed Repo*
 ![](https://github-contributor-stats.vercel.app/api?username=tbs96&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
-
-## 👻 *My GitHub Contri Eater:*
-
-![Pac-Man eating my contributions](https://github.com/TBS96/TBS96/blob/output/github-contribution-grid-pacman.svg)
 
 
 <!-- ## 📊 *Stats*
