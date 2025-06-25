@@ -67,9 +67,9 @@
 <!-- ## 🔝 *Top Contributed Repo*
 ![](https://github-contributor-stats.vercel.app/api?username=tbs96&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
 
-## 🐍 *My GitHub Contri Eater:*
+## 👻 *My GitHub Contri Eater:*
 
-![snake gif](https://github.com/TBS96/TBS96/blob/output/github-contribution-grid-snake-dark.svg)
+![Pac-Man eating my contributions](https://github.com/TBS96/TBS96/blob/output/github-contribution-grid-pacman.svg)
 
 
 ## 📊 *Stats*
