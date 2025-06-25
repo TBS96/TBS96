@@ -57,10 +57,11 @@
 - ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 # 📊 *GitHub Stats:*
-[![GitHub Streak](https://streak-stats.demolab.com?user=TBS96&theme=merko&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TBS96&theme=merko&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=TBS96&show_icons=true&include_all_commits=true&count_private=true&theme=merko&rank_icon=github&hide_border=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbs96&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBS96&theme=merko&layout=pie&hide_border=true&include_all_commits=true&count_private=true&)](https://github.com/tbs96?tab=repositories)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TBS96&theme=merko)
 ## 🏆 *GitHub Trophies*
 ![](https://github-profile-trophy.vercel.app/?username=tbs96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
