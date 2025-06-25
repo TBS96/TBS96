@@ -34,7 +34,7 @@ jobs:
           output_directory: dist
 
       - name: Copy to generic file name
-        run: cp dist/pacman-contribution-graph-dark.svg github-contribution-grid-pacman.svg
+        run: pacman-contribution-graph-dark.svg github-contribution-grid-pacman.svg
 
       - name: Commit and push changes
         run: |
