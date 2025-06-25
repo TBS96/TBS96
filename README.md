@@ -57,10 +57,10 @@
 - ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 # 📊 *GitHub Stats:*
-![](https://github-readme-streak-stats.herokuapp.com/?user=tbs96&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=tbs96&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tbs96&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=TBS96&theme=merko&hide_border=true)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=TBS96&show_icons=true&include_all_commits=true&count_private=true&theme=merko&rank_icon=github&hide_border=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbs96&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBS96&theme=merko&layout=pie&hide_border=true&include_all_commits=true&count_private=true&)](https://github.com/tbs96?tab=repositories)
 ## 🏆 *GitHub Trophies*
 ![](https://github-profile-trophy.vercel.app/?username=tbs96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -72,7 +72,7 @@
 ![Pac-Man eating my contributions](https://github.com/TBS96/TBS96/blob/output/github-contribution-grid-pacman.svg)
 
 
-## 📊 *Stats*
-![Alt](https://repobeats.axiom.co/api/embed/58850287904965222180173d1526891d1d18b824.svg "Repobeats analytics image")
+<!-- ## 📊 *Stats*
+![Alt](https://repobeats.axiom.co/api/embed/58850287904965222180173d1526891d1d18b824.svg "Repobeats analytics image") -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
