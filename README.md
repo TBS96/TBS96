@@ -10,7 +10,7 @@
 ## 🌐 *Socials:*
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/theblacksheep96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/9.theblacksheep.6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prantikghosh96/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/9theblacksheep6) 
 
-## *Recently added DOM Mini-Projects:*
+<!-- ## *Recently added DOM Mini-Projects:*
 - 👨‍💻 Random RGB Color Generator [`https://tbs96.github.io/random-rgb-color-generator/`](https://tbs96.github.io/random-rgb-color-generator/)
 
 - 👨‍💻 Image to Text Converter App [`https://tbs96.github.io/img-to-text-converter-app/`](https://tbs96.github.io/img-to-text-converter-app/)
@@ -39,7 +39,7 @@
 
 - 👨‍💻 Typewriter Effect [`https://tbs96.github.io/typewriter-effect/`](https://tbs96.github.io/typewriter-effect/)
 
-- 👨‍💻 QR Code Generator [`https://tbs96.github.io/qr-code-generator/`](https://tbs96.github.io/qr-code-generator/)
+- 👨‍💻 QR Code Generator [`https://tbs96.github.io/qr-code-generator/`](https://tbs96.github.io/qr-code-generator/) -->
 
 # 💻 *Tech Stack:*
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
