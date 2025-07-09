@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tbs96&label=Profile%20Views&color=3510da&style=plastic" alt="tbs96" /> </p>
 
 # 💫 *About Me:*
-🌱 I’m currently learning **TypeScript**<br>👨‍💻 All of my projects are available at *https://github.com/tbs96?tab=repositories*<br>⚡ [Portfolio](https://prantikghosh.vercel.app)
+<!--🌱 I’m currently learning **TypeScript**<br>-->
+👨‍💻 All of my projects are available at *https://github.com/tbs96?tab=repositories*<br>⚡ [Portfolio](https://prantikghosh.vercel.app)
 
 ## 🌐 *Socials:*
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/theblacksheep96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/9.theblacksheep.6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prantikghosh96/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/9theblacksheep6) 
