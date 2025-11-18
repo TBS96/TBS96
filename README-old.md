@@ -30,7 +30,7 @@
 
 - 👨‍💻 BMI Calculator [https://tbs96.github.io/bmi-calculator/](https://tbs96.github.io/bmi-calculator/)
 
-### ⚡ Fun fact **I think I ain't funny 😂😒**
+### ⚡ Fun fact **I think I ain't funny**
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
