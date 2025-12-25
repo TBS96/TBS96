@@ -6,7 +6,7 @@
 
 # 💫 *About Me:*
 <!--🌱 I’m currently learning **TypeScript**<br>-->
-👨‍💻 All of my projects are available at *https://github.com/tbs96?tab=repositories*<br>⚡ [Portfolio](https://prantikghosh.vercel.app)
+👨‍💻 All of my projects are available at *https://github.com/tbs96?tab=repositories*<br> [![Portfolio](https://img.shields.io/badge/Portfolio-prantikghosh.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prantikghosh.vercel.app)
 
 ## 🌐 *Socials:*
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/theblacksheep96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/9.theblacksheep.6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prantikghosh96/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/9theblacksheep6) 
@@ -67,6 +67,7 @@
 ![Alt](https://repobeats.axiom.co/api/embed/58850287904965222180173d1526891d1d18b824.svg "Repobeats analytics image") -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
