@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tbs96&label=Profile%20Views&color=3510da&style=plastic" alt="tbs96" /> </p>
 
 # 💫 *About Me:*
-<!--🌱 I’m currently learning **TypeScript**<br>-->
+<!--🌱 I’m currently learning **MERN**<br>-->
 👨‍💻 All of my projects are available at *https://github.com/tbs96?tab=repositories*<br> [![Portfolio](https://img.shields.io/badge/Portfolio-prantikghosh.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prantikghosh.vercel.app)
 
 ## 🌐 *Socials:*
@@ -67,6 +67,7 @@
 ![Alt](https://repobeats.axiom.co/api/embed/58850287904965222180173d1526891d1d18b824.svg "Repobeats analytics image") -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
