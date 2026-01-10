@@ -52,7 +52,7 @@
 - [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 # 📊 *GitHub Stats:*
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TBS96&theme=merko)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TBS96&theme=merko) -->
 <!-- ![GH Stats](https://github-readme-stats.vercel.app/api?username=TBS96&show_icons=true&include_all_commits=true&count_private=true&theme=merko&rank_icon=github) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBS96&theme=merko&layout=pie&include_all_commits=true&count_private=true&)](https://github.com/tbs96?tab=repositories) -->
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TBS96&theme=merko)
@@ -67,6 +67,7 @@
 ![Alt](https://repobeats.axiom.co/api/embed/58850287904965222180173d1526891d1d18b824.svg "Repobeats analytics image") -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
