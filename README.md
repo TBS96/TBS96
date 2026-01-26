@@ -45,7 +45,7 @@
 # 💻 *Tech Stacks:*
 - [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,redux)](https://skillicons.dev)
 
-- [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,markdown,npm,nodejs,express,postman)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,markdown,npm,nodejs,bun,express,postman)](https://skillicons.dev)
 
 - [![My Skills](https://skillicons.dev/icons?i=netlify,vercel,firebase,appwrite,mongodb)](https://skillicons.dev) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
@@ -67,6 +67,7 @@
 ![Alt](https://repobeats.axiom.co/api/embed/58850287904965222180173d1526891d1d18b824.svg "Repobeats analytics image") -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
